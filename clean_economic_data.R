@@ -25,6 +25,13 @@ unempl <- unempl %>%
   left_join(bls_area, by = 'area_code') %>%
   select(state, period, measure, unempl_rate)
 
+# Improve date formatting
+unempl$period <- unempl$period %>% paste ("01") %>% as.Date("%b %Y %d")
+unempl <- unempl %>%
+  mutate(year = year(period),
+         month = month(period),
+         quarter = quarter(period, with_year = TRUE))
+
 # PERSONAL INCOME
 personal_income <- personal_income %>%
   gather(period, value, `1948Q1`:`2016Q2`) %>%
