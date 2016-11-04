@@ -1,0 +1,35 @@
+UNITED STATES OF AMERICA
+PRESDENTIAL ELECTIONS OF 1789
+====================================================================
+
+
+ELECTORAL COLLEGE VOTE BY STATE
+====================================================================
+The President was chosen by the Electoral College, whose members
+were chosen by the state legislatures.
+
+                          George
+                      Washington 
+                  (non-party, VA)
+--------------------------------------------------------------------
+State                        ECV
+--------------------------------------------------------------------
+CONNECTICUT                   7
+DELAWARE                      3
+GEORGIA                       5
+MARYLAND                      6
+MASSACHUSETTS                10
+NEW HAMPSHIRE                 5
+NEW JERSEY                    6
+NEW YORK                      -
+NTH CAROLINA                  -
+PENNSYLVANIA                 10
+RHODE ISLAND                  -
+STH CAROLINA                  7
+VIRGINIA                     10
+--------------------------------------------------------------------
+                             69
+--------------------------------------------------------------------
+New York, North Carolina and Rhode Island did not vote because their
+legislatures had not yet ratified the Consitution. Maryland had 
+eight Electoral College votes, but two electors did not vote.

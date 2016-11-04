@@ -1,0 +1,61 @@
+UNITED STATES OF AMERICA
+PRESDENTIAL ELECTIONS OF 1888
+=====================================================================
+
+
+POPULAR VOTE AND ELECTORAL COLLEGE VOTE BY STATE
+=====================================================================
+
+                          Grover                Benjamin
+                       Cleveland                Harrison
+                   (Democrat, NY)        (Republican, IN)
+--------------------------------------------------------------------
+State               vote    %     ECV       vote    %     ECV
+--------------------------------------------------------------------
+ALABAMA             117,314 67.0  10         57,177 32.7   -
+ARKANSAS             86,062 54.8   7         59,752 38.0   -
+CALIFORNIA          117,729 46.8   -        124,816 49.7   8
+COLORADO             37,549 40.8   -         50,772 55.2   3
+CONNECTICUT          74,920 48.7   6         74,584 48.4   -
+DELAWARE             16,414 55.2   3         12,950 43.5   -
+FLORIDA              39,557 59.5   4         26,529 39.9   -
+GEORGIA             100,493 70.3  12         40,499 28.3   -
+ILLINOIS            348,351 46.6   -        370,475 49.5  22
+INDIANA             260,990 48.6   -        263,366 49.1  15
+IOWA                179,876 44.5   -        211,607 52.3  13
+KANSAS              102,739 31.0   -        182,845 55.2   9
+KENTUCKY            183,830 53.3  13        155,138 45.0   -
+LOUISIANA            85,032 73.4   8         30,660 26.5   -
+MAINE                50,472 39.4   -         73,730 57.5   6
+MARYLAND            106,188 50.3   8         99,986 47.4   -
+MASSACHUSETTS       151,590 44.0   -        183,892 53.4  14
+MICHIGAN            213,469 44.9  13        236,387 49.7   -
+MINNESOTA           104,372 39.7   -        142,492 54.2   7
+MISSISSIPPI          85,451 73.8   9         30,095 26.0   -
+MISSOURI            261,943 50.2  16        236,252 45.3   -
+NEBRASKA             80,552 39.8   -        108,417 53.5   5
+NEVADA                5,303 42.2   -          7,229 57.5   3
+NEW HAMPSHIRE        43,382 47.8   -         45,734 50.4   4
+NEW JERSEY          151,493 49.9   9        144,347 47.5   -
+NEW YORK            635,965 48.2   -        650,338 49.3  36
+NTH CAROLINA        147,902 51.8  11        134,784 47.2   -
+OHIO                395,456 47.1   -        416,054 49.6  23
+OREGON               26,518 42.9   -         33,291 53.8   3
+PENNSYLVANIA        446,633 44.8   -        526,091 52.7  30
+RHODE ISLAND         17,530 43.0   -         21,969 52.7   4
+STH CAROLINA         65,824 82.3   9         13,736 17.2   -
+TENNESSEE           158,699 52.3  12        138,978 45.8   -
+TEXAS               232,189 65.5  13         88,604 25.0   -
+VERMONT              16,788 26.5   -         45,193 71.2   4
+VIRGINIA            152,004 50.0  12        150,399 49.5   -
+WEST VIRGINIA        78,677 49.4   6         78,171 49.0   -
+WISCONSIN           155,232 43.8   -        176,553 49.8  11
+--------------------------------------------------------------------
+                  5,534,488 48.6 168      5,443,892 47.8 233
+--------------------------------------------------------------------
+Cleveland failed to win a majority in the Electoral College despite
+winning a plurity of the popular vote. It should be recalled, 
+however, that the nominal Democrat plurity was gained by preventing 
+Southern Blacks voting.
+--------------------------------------------------------------------
+

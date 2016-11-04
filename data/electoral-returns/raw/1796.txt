@@ -1,0 +1,36 @@
+UNITED STATES OF AMERICA
+PRESDENTIAL ELECTIONS OF 1796
+====================================================================
+
+
+ELECTORAL COLLEGE VOTE BY STATE
+====================================================================
+The President was chosen by the Electoral College, whose members
+were chosen by the state legislatures.
+
+                            John                  Thomas
+                           Adams               Jefferson 
+                 (Federalist, MA)    (Democratic-Rep, VA)
+--------------------------------------------------------------------
+State                        ECV                     ECV
+--------------------------------------------------------------------
+CONNECTICUT                   9                       -
+DELAWARE                      3                       -
+GEORGIA                       -                       4
+KENTUCKY                      -                       4
+MARYLAND                      7                       4
+MASSACHUSETTS                16                       -
+NEW HAMPSHIRE                 6                       -
+NEW JERSEY                    7                       -
+NEW YORK                     12                       -
+NTH CAROLINA                  1                      11
+PENNSYLVANIA                  1                      14
+RHODE ISLAND                  4                       -
+STH CAROLINA                  -                       8
+TENNESSEE                     -                       3
+VERMONT                       4                       -
+VIRGINIA                      1                      20
+--------------------------------------------------------------------
+                             71                      68
+--------------------------------------------------------------------
+

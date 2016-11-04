@@ -1,0 +1,62 @@
+UNITED STATES OF AMERICA
+PRESDENTIAL ELECTIONS OF 1872
+=====================================================================
+Horace Greeley, a dissident Republican, ran for President as a
+"Liberal Republican." The Democratic Party convention endorsed him
+and he was for all practical purposes the Democrat candidate.
+
+
+POPULAR VOTE AND ELECTORAL COLLEGE VOTE BY STATE
+=====================================================================
+
+
+                       Ulysses S                  Horace
+                           Grant                 Greeley
+                 (Republican, IL)          (Democrat, NY)
+--------------------------------------------------------------------
+State               vote    %     ECV       vote    %     ECV
+--------------------------------------------------------------------
+ALABAMA              90,272 53.2  10         79,444 46.8   -
+ARKANSAS             41,373 52.2   *         37,927 47.8   -
+CALIFORNIA           54,007 56.4   6         40,717 42.5   -
+CONNECTICUT          50,307 52.4   6         45,685 47.6   -
+DELAWARE             11,129 51.0   3         10,205 46.8   -
+FLORIDA              17,763 53.5   4         15,427 46.5   -
+GEORGIA              62,550 45.0   -         76,356 55.0  11
+ILLINOIS            241,936 56.3  21        184,884 43.0   -
+INDIANA             186,147 53.2  15        163,632 46.8   -
+IOWA                131,566 60.8  11         71,189 32.9   -
+KANSAS               66,805 66.5   5         32,970 32.8   -
+KENTUCKY             88,766 46.4   -         99,995 52.3  12
+LOUISIANA            71,663 55.7   *         57,029 44.3   -
+MAINE                61,426 67.9   7         29,097 32.1   -
+MARYLAND             66,760 49.7   -         67,687 50.3   8
+MASSACHUSETTS       133,455 69.3  13         59,195 30.7   -
+MICHIGAN            138,768 62.6  11         78,651 35.5   -
+MINNESOTA            56,040 61.4   8         35,131 38.5   -
+MISSISSIPPI          82,165 63.5   8         47,282 36.5   -
+MISSOURI            119,196 43.7   -        151,434 55.5  15
+NEBRASKA             18,329 70.7   3          7,603 29.3   -
+NEVADA                8,413 57.4   3          6,236 42.6   -
+NEW HAMPSHIRE        37,168 53.9   5         31,425 45.6   -
+NEW JERSEY           91,656 54.5   9         76,456 45.5   -
+NEW YORK            440,738 53.2  35        387,282 46.8   -
+NTH CAROLINA         94,772 57.4  10         70,130 42.5   -
+OHIO                281,852 53.2  22        244,320 46.2   -
+OREGON               11,818 58.8   3          7,742 38.5   -
+PENNSYLVANIA        349,589 62.3  29        212,040 378    -
+RHODE ISLAND         13,665 71.9   4          5,329 28.1   -
+STH CAROLINA         72,290 75.7   7         22,699 23.8   -
+TENNESSEE            85,655 47.8   -         93,391 52.2  12
+TEXAS                47,910 41.4   -         67,675 58.5   8
+VERMONT              41,481 79.2   5         10,927 20.9   -
+VIRGINIA             93,463 50.5  11         91,647 49.5   -
+WEST VIRGINIA        32,320 51.7   5         29,532 47.3   -
+WISCONSIN           105,012 54.6  10         86,390 44.9   -
+--------------------------------------------------------------------
+                  3,598,235 55.6 286      2,834,761 43.8  66 *
+--------------------------------------------------------------------
+* The Electoral College votes of Arkansas and Louisiana were not
+counted because of voting irregularities.
+* Greeley died on 29 November. His Electoral College votes were cast
+for several other Democrats.

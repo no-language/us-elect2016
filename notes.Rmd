@@ -1,0 +1,16 @@
+## REQUIRED DATA
+- state-level vote shares for presidential elections from 1972 onward
+- presidential approval ratings for Q2 in election years from 1972 onward
+- party of incumbent president, 1968 onward
+- quarterly state-level and national economic variables:
+  - GDP
+  - personal income
+  - unemployment rates
+  - population (used as control in estimating home state advantage)
+- American Conservative Union ratings of state senators in the before an 
+election year
+- biographical information:
+  - home state of presidential candidates
+
+## APPROVAL DATA
+https://presidential.roper.center/api/presidents?byTerm

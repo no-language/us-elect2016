@@ -1,0 +1,36 @@
+UNITED STATES OF AMERICA
+PRESDENTIAL ELECTIONS OF 1792
+====================================================================
+
+
+ELECTORAL COLLEGE VOTE BY STATE
+====================================================================
+The President was chosen by the Electoral College, whose members
+were chosen by the state legislatures.
+
+                          George
+                      Washington 
+                  (non-party, VA)
+--------------------------------------------------------------------
+State                        ECV
+--------------------------------------------------------------------
+CONNECTICUT                   9
+DELAWARE                      3
+GEORGIA                       4
+KENTUCKY                      4
+MARYLAND                      8
+MASSACHUSETTS                16
+NEW HAMPSHIRE                 6
+NEW JERSEY                    7
+NEW YORK                     12
+NTH CAROLINA                 12
+PENNSYLVANIA                 15
+RHODE ISLAND                  4
+STH CAROLINA                  8
+VERMONT                       3
+VIRGINIA                     21
+--------------------------------------------------------------------
+                            132
+--------------------------------------------------------------------
+Maryland had ten Electoral College votes and Vermont had four, but 
+two Maryland electors and one Vermont elector did not vote.

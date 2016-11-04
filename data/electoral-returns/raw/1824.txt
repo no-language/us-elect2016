@@ -1,0 +1,48 @@
+UNITED STATES OF AMERICA
+PRESDENTIAL ELECTIONS OF 1824
+===================================================================================================
+This was the first election at which the members of the Electoral College were elected by popular 
+vote, although in states marked with an asterisk the legislatures still cast the state's votes. The 
+four candidates represented factions of the Democratic Republican party.
+
+
+POPULAR VOTE AND ELECTORAL COLLEGE VOTE BY STATE
+==================================================================================================
+
+                    John Q                 Henry               William                Andrew
+                     Adams                  Clay              Crawford               Jackson 
+              (Dem Rep, MA)         (Dem Rep, KY)         (Dem Rep, GA)         (Dem Rep, TN)
+--------------------------------------------------------------------------------------------------
+State         vote    %     ECV     vote    %     ECV     vote    %     ECV     vote    %     ECV
+--------------------------------------------------------------------------------------------------
+ALABAMA         2,422 17.8   -           96 00.2   -        1,656 12.2   -        9,429 69.3   5
+CONNECTICUT     7,494 70.4   8        1,965 18.5   -            -        -            -        -
+DELAWARE            *        1            *        -            *        2            *        -
+GEORGIA             *        -            *        -            *        9            *        -
+ILLINOIS        1,516 32.5   1        1,036 22.2   -            -        -        1,272 27.2   2 
+INDIANA         3,071 19.4   -        5,316 33.6   -            -        -        7,444 47.0   5
+KENTUCKY            -        -       16,982 72.8  14            -        -        6,356 27.2   -
+LOUISIANA           *        2            *        -            *        -            *        3
+MAINE          10,289 81.5   9            -        -        2,336 18.5   -            -        -
+MARYLAND       14,632 44.1   3       14,523 43.7   -          695 02.1   1        3,364 10.1   7
+MASSACHUSETTS  30,687 73.0  15            -        -       11,369 27.0   -            -        -
+MISSISSIPPI     1,654 33.8   -            -        -          119 02.4   -        3,121 63.8   3
+MISSOURI          159 04.6   -        2,042 59.5   3           32 00.9   -        1,166 34.0   -
+NEW HAMPSHIRE   9,389 93.6   8            -        -          643 06.4   -            -        -
+NEW JERSEY      8,309 41.9   -            -        -        1,196 06.0   -       10,332 52.1   8
+NEW YORK            *       26            *        4            *        5            *        1
+NTH CAROLINA        -        -            -        -       15,622 43.3   -       20,231 56.0  15
+OHIO           12,280 24.5   -       19,255 38.5  16            -        -       18,489 37.0   -
+PENNSYLVANIA    5,441 11.6   -        1,690 03.6   -        4,206 08.9   -       35,736 75.9  28
+RHODE ISLAND    2,144 91.5   4            -        -            -        -            -        -
+STH CAROLINA        *        -            *        -            *        -            *       11
+TENNESSEE         216 01.0   -            -        -          312 01.5   -       20,197 97.5  11
+VERMONT             *        7            *        -            *        -            *        -
+VIRGINIA        3,419 22.2   -          419 02.7   -        8,558 55.7  24        2,975 19.4   -
+------------------------------------------------------------------------------------------------
+              113,122 30.9  84       47,531 13.0  37       40,856 11.2  41      151,271 41.3  99
+------------------------------------------------------------------------------------------------
+No candidate had a majority of Electoral College votes. The election was therefore decided by 
+the House of Representatives, which chose Adams.
+------------------------------------------------------------------------------------------------
+

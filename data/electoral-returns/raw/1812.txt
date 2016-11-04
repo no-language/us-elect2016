@@ -1,0 +1,38 @@
+UNITED STATES OF AMERICA
+PRESDENTIAL ELECTIONS OF 1812
+====================================================================
+
+
+ELECTORAL COLLEGE VOTE BY STATE
+====================================================================
+The President was chosen by the Electoral College, whose members
+were chosen by the state legislatures.
+
+                         De Witt                   James
+                         Clinton                 Madison
+                 (Federalist, NY)    (Democratic-Rep, VA)
+--------------------------------------------------------------------
+State                        ECV                     ECV
+--------------------------------------------------------------------
+CONNECTICUT                   9                       -
+DELAWARE                      4                       -
+GEORGIA                       -                       8
+KENTUCKY                      -                      12
+LOUISIANA                     -                       3
+MARYLAND                      5                       6
+MASSACHUSETTS                22                       -
+NEW HAMPSHIRE                 8                       -
+NEW JERSEY                    8                       -
+NEW YORK                     29                       -
+NTH CAROLINA                  -                      15
+OHIO                          -                       7
+PENNSYLVANIA                  -                      25
+RHODE ISLAND                  4                       -
+STH CAROLINA                  -                      11
+TENNESSEE                     -                       8
+VERMONT                       -                       8
+VIRGINIA                      -                      25
+--------------------------------------------------------------------
+                             89                     128
+--------------------------------------------------------------------
+One Ohio elector did not vote.

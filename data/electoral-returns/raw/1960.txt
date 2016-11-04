@@ -1,0 +1,72 @@
+UNITED STATES OF AMERICA
+PRESIDENTIAL ELECTIONS OF 1960
+====================================================================
+
+
+POPULAR VOTE AND ELECTORAL COLLEGE VOTE BY STATE
+====================================================================
+
+                          John F               Richard M
+                         Kennedy                   Nixon
+                   (Democrat, MA)        (Republican, CA)
+--------------------------------------------------------------------
+State               vote    %     ECV       vote    %     ECV
+--------------------------------------------------------------------
+ALABAMA             318,303 56.8   5        236,110 42.1   -
+ALASKA               29,809 49.1   -         30,953 50.9   3
+ARIZONA             176,781 44.4   -        221,241 55.5   4
+ARKANSAS            215,049 50.2   8        184,508 43.1   -
+CALIFORNIA        3,224,099 49.6   -      3,259,722 50.1  32
+COLORADO            330,629 44.9   -        402,242 54.6   6
+CONNECTICUT         657,055 53.7   8        565,813 46.3   -
+DELAWARE             99,590 50.6   3         96,373 49.0   -
+FLORIDA             748,700 48.5   -        795,476 51.5  10
+GEORGIA             458,638 62.5  12        274,472 37.4   -
+HAWAII               92,410 50.0   3         92,295 50.0   -
+IDAHO               138,853 46.2   -        161,597 53.8   4
+ILLINOIS          2,377,846 50.0  27      2,368,988 49.8   -
+INDIANA             952,358 44.6   -      1,175,120 55.0  13
+IOWA                550,565 43.2   -        722,381 56.7  10
+KANSAS              363,213 39.1   -        561,474 60.5   8
+KENTUCKY            521,855 46.4   -        602,607 53.6  10
+LOUISIANA           407,339 50.4  10        230,980 28.6   -
+MAINE               181,159 43.0   -        240,608 57.1   5
+MARYLAND            565,808 53.6   9        489,538 46.4   -
+MASSACHUSETTS     1,487,174 60.2  16        976,750 39.6   -
+MICHIGAN          1,687,269 50.9  20      1,620,428 48.8   -
+MINNESOTA           779,933 50.6  11        757,915 49.2   -
+MISSISSIPPI         108,362 36.3   -         73,561 24.7   -
+MISSOURI            972,201 50.3  13        962,218 49.7   -
+MONTANA             134,891 48.6   -        141,841 51.1   4
+NEBRASKA            232,542 37.9   -        380,553 62.1   6
+NEVADA               54,880 51.2   3         52,387 48.8   -
+NEW HAMPSHIRE       137,772 46.6   -        157,989 53.4   4
+NEW JERSEY        1,385,415 50.0  16      1,363,324 49.2   -
+NEW MEXICO          156,027 50.2   4        153,733 49.4   -
+NEW YORK          3,830,085 52.5  45      3,446,419 47.3   -
+NTH CAROLINA        713,136 52.1  14        655,420 47.9   -
+NTH DAKOTA          123,963 44.5   -        154,310 55.4   4
+OHIO              1,944,248 46.7   -      2,217,611 53.3  25
+OKLAHOMA            370,111 41.0   -        533,039 59.0   7
+OREGON              367,402 47.3   -        408,065 52.6   6
+PENNSYLVANIA      2,556,282 51.1  32      2,439,956 48.7   -
+RHODE ISLAND        258,032 63.6   4        147,502 36.4   -
+STH CAROLINA        198,121 51.2   8        188,558 48.8   -
+STH DAKOTA          128,070 41.8   -        178,417 58.2   4
+TENNESSEE           481,453 45.8   -        556,577 52.9  11
+TEXAS             1,167,935 50.5  24      1,121,693 48.5   -
+UTAH                169,248 45.2   -        205,361 54.8   4
+VERMONT              69,186 41.4   -         98,131 58.7   3
+VIRGINIA            362,327 47.0   -        404,521 52.4  12
+WASHINGTON          599,298 48.3   -        629,273 50.7   9
+WEST VIRGINIA       441,786 52.7   8        395,995 47.3   -
+WISCONSIN           830,805 48.1   -        895,175 51.8  12
+WYOMING              63,331 45.0   -         77,451 55.0   3
+--------------------------------------------------------------------
+                 34,221,344 49.7 303     34,106,671 49.5 219
+--------------------------------------------------------------------
+A slate of "unpledged" Electoral College candidates polled 39.0% of 
+the vote in Mississippi, carrying the state. Mississipp's eight
+Electoral College votes were cast for Harry F Byrd of Virginia, who
+also received six Electoral College votes from Alabama and one from 
+Oklahoma.

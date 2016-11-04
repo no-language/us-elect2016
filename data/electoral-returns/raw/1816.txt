@@ -1,0 +1,39 @@
+UNITED STATES OF AMERICA
+PRESDENTIAL ELECTIONS OF 1816
+====================================================================
+
+
+ELECTORAL COLLEGE VOTE BY STATE
+====================================================================
+The President was chosen by the Electoral College, whose members
+were chosen by the state legislatures.
+
+                           Rufus                   James
+                            King                  Monroe
+                 (Federalist, NY)    (Democratic-Rep, VA)
+--------------------------------------------------------------------
+State                        ECV                     ECV
+--------------------------------------------------------------------
+CONNECTICUT                   9                       -
+DELAWARE                      3                       -
+GEORGIA                       -                       8
+INDIANA                       -                       3
+KENTUCKY                      -                      12
+LOUISIANA                     -                       3
+MARYLAND                      -                       8
+MASSACHUSETTS                22                       -
+NEW HAMPSHIRE                 -                       8
+NEW JERSEY                    -                       8
+NEW YORK                      -                      29
+NTH CAROLINA                  -                      15
+OHIO                          -                       8
+PENNSYLVANIA                  -                      25
+RHODE ISLAND                  -                       4
+STH CAROLINA                  -                      11
+TENNESSEE                     -                       8
+VERMONT                       -                       8
+VIRGINIA                      -                      25
+--------------------------------------------------------------------
+                             34                     183
+--------------------------------------------------------------------
+Three Maryland electors and one Delaware elector did not vote.

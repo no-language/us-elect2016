@@ -1,0 +1,38 @@
+UNITED STATES OF AMERICA
+PRESDENTIAL ELECTIONS OF 1808
+====================================================================
+
+
+ELECTORAL COLLEGE VOTE BY STATE
+====================================================================
+The President was chosen by the Electoral College, whose members
+were chosen by the state legislatures.
+
+                           James                 Charles
+                         Madison                Pinckney
+             (Democratic-Rep, VA)        (Federalist, SC)
+--------------------------------------------------------------------
+State                        ECV                     ECV
+--------------------------------------------------------------------
+CONNECTICUT                   -                       9
+DELAWARE                      -                       3
+GEORGIA                       6                       -
+KENTUCKY                      7                       -
+MARYLAND                      9                       2
+MASSACHUSETTS                 -                      19
+NEW HAMPSHIRE                 -                       7
+NEW JERSEY                    8                       -
+NEW YORK                     13                       -
+NTH CAROLINA                 11                       3
+OHIO                          3                       -
+PENNSYLVANIA                 20                       -
+RHODE ISLAND                  -                       4
+STH CAROLINA                 10                       -
+TENNESSEE                     5                       -
+VERMONT                       6                       -
+VIRGINIA                     24                       -
+--------------------------------------------------------------------
+                            122                      47
+--------------------------------------------------------------------
+One Kentucky elector did not vote. Six New York electors voted for
+New York Governor George Clinton.

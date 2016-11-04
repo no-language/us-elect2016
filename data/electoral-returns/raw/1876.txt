@@ -1,0 +1,62 @@
+UNITED STATES OF AMERICA
+PRESDENTIAL ELECTIONS OF 1876
+=====================================================================
+In Colorado, which had just been admitted to the Union, the 
+legislature cast the state's Electoral College votes.
+
+
+POPULAR VOTE AND ELECTORAL COLLEGE VOTE BY STATE
+=====================================================================
+
+                    Rutherford B                Samuel J
+                           Hayes                  Tilden
+                 (Republican, OH)          (Democrat, NY)
+--------------------------------------------------------------------
+State               vote    %     ECV       vote    %     ECV
+--------------------------------------------------------------------
+ALABAMA              68,708 40.0   -        102,989 60.0  10
+ARKANSAS             38,649 39.9   -         58,086 59.9   6
+CALIFORNIA           79,258 50.9   6         76,460 49.1   -
+COLORADO                  *        3              *        -
+CONNECTICUT          59,033 48.3   -         61,927 50.7   6
+DELAWARE             10,752 44.6   -         13,381 55.5   3
+FLORIDA              23,849 51.0   4         22,927 49.0   -
+GEORGIA              50,533 28.0   -        130,157 72.0  11
+ILLINOIS            278,232 50.2  21        258,611 46.7   -
+INDIANA             208,011 48.3   -        213,529 49.5  15
+IOWA                171,326 58.4  11        112,121 38.2   -
+KANSAS               78,324 63.1   5         37,902 30.5   -
+KENTUCKY             97,568 37.4   -        160,060 61.4  12
+LOUISIANA            75,315 51.7   8         70,508 48.4   -
+MAINE                66,300 56.6   7         49,917 42.7   -
+MARYLAND             71,980 44.0   -         91,779 56.1   8
+MASSACHUSETTS       150,063 57.8  13        108,777 41.9   -
+MICHIGAN            166,901 52.4  11        141,665 44.5   -
+MINNESOTA            72,962 58.8   8         48,799 39.3   -
+MISSISSIPPI          52,603 31.9   -        112,173 68.1   8
+MISSOURI            145,027 41.4   -        202,086 57.6  15
+NEBRASKA             31,915 64.8   3         17,343 35.2   -
+NEVADA               10,383 52.7   3          9.308 47.3   -
+NEW HAMPSHIRE        41,540 51.8   5         38,510 48.1   -
+NEW JERSEY          103,517 47.0   -        115,962 52.7   9
+NEW YORK            489,207 48.2   -        521,949 51.4  35
+NTH CAROLINA        108,484 46.4   -        125,427 53.6  10
+OHIO                330,698 50.2  22        323,182 49.1   -
+OREGON               15,207 50.9   3         14,157 49.1   -
+PENNSYLVANIA        384,157 50.6  29        366,204 48.3   -
+RHODE ISLAND         15,787 59.6   4         10,712 40.4   -
+STH CAROLINA         91,786 50.2   7         90,897 49.8   -
+TENNESSEE            89,566 40.2   -        133,177 59.8  12
+TEXAS                45,013 29.7   -        106,372 70.2   8
+VERMONT              44,092 68.4   5         20,254 31.4   -
+VIRGINIA             95,518 40.4   -        140,770 59.6  11
+WEST VIRGINIA        41,997 42.2   -         56,546 56.8   5
+WISCONSIN           130,050 50.6  10        123,922 48.2   -
+--------------------------------------------------------------------
+                  4,034,311 47.9 185      4,288,546 51.0 184
+--------------------------------------------------------------------
+Although Tilden received a majority of the popular vote, narrow (and 
+disputed) Republican victories in Florida, Louisiana and South 
+Carolina gave Hayes a majority in the Electoral College.
+--------------------------------------------------------------------
+
