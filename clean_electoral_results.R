@@ -120,13 +120,16 @@ vote_data$party <- c("dem", "rep", "other")
 y2004 <- cbind(state = rep(state, each = 3), vote_data) %>%
   melt(id = c("state", "party"))
 
+# Create a list containing the cleaned raw text from each year.
 clean <- lapply(raw, clean_year)
 clean[['2004']] <- y2004
 
+# Specify a variable giving the year associated with each election.
 for (yr in seq(1972, 2012, 4)) {
   clean[[as.character(yr)]]$year <- yr
 }
 
+# Combine cleaned data and cast into wide form.
 electoral_returns <- bind_rows(clean)
 electoral_returns <- dcast(electoral_returns, year + state + party ~ variable)
 
