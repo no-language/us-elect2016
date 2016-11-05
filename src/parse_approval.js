@@ -4,7 +4,7 @@
 // easy once pre-parsed in JS.
 var fs = require('fs');
 
-var filename = './data/approval/approval_raw.json';
+var filename = '../data/approval/approval_raw.json';
 var approval = JSON.parse(fs.readFileSync(filename, 'utf8'));
 
 function parse_president(pres_obj) {
@@ -25,5 +25,5 @@ let approval_parsed = approval.reduce((out, pres_obj) => {
   return out.concat(parse_president(pres_obj));
 }, []);
 
-fs.writeFileSync('./data/approval/approval_parsed.json',
+fs.writeFileSync('../data/approval/approval_parsed.json',
                  JSON.stringify(approval_parsed));

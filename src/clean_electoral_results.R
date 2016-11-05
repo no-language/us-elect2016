@@ -3,7 +3,7 @@ library(reshape2)
 library(stringr)
 
 scan_raw <- function(year, skip) {
-  scan(paste0('./data/electoral-returns/raw/', year, '.txt'), 
+  scan(paste0('../data/electoral-returns/raw/', year, '.txt'), 
        what = 'character', sep = '\n', skip = skip, nlines = 51)
 }
 
@@ -94,7 +94,7 @@ raw[['2008']] <- scan_raw(2008, 26)
 raw[['2012']] <- scan_raw(2012, 25)
 
 # 2004 is a disaster, it needs to be handled separately.
-y2004 <- scan('./data/electoral-returns/raw/2004.txt', what = 'character', 
+y2004 <- scan('../data/electoral-returns/raw/2004.txt', what = 'character', 
               sep = '\n', skip = 8)
 # Entries are separated by ASCII dividers consisting of repeated '=' chars.
 # State names are located on the line above the dividers. On the third line 
@@ -137,5 +137,5 @@ electoral_returns <- dcast(electoral_returns, year + state + party ~ variable)
 # OUTPUT #
 ##########
 write.csv(electoral_returns, 
-          file = './data/electoral-returns/clean/electoral_returns.csv',
+          file = '../data/electoral-returns/clean/electoral_returns.csv',
           row.names = FALSE)

@@ -1,13 +1,13 @@
 library(tidyverse)
 library(stringr)
 
-bls_area <- read_csv('./data/economic/raw/bls_area_codes.csv', n_max = 52)
-unempl <- read_csv('./data/economic/raw/state_unemployment.csv')
-personal_income <- read_csv('./data/economic/raw/personal_income.csv', 
+bls_area <- read_csv('../data/economic/raw/bls_area_codes.csv', n_max = 52)
+unempl <- read_csv('../data/economic/raw/state_unemployment.csv')
+personal_income <- read_csv('../data/economic/raw/personal_income.csv', 
                             skip = 4, n_max = 159)
-gdp_sic <- read_csv('./data/economic/raw/state_gdp_1963_1997.csv',
+gdp_sic <- read_csv('../data/economic/raw/state_gdp_1963_1997.csv',
                     skip = 4, n_max = 53)
-gdp_naics <- read_csv('./data/economic/raw/state_gdp_1997_2015.csv',
+gdp_naics <- read_csv('../data/economic/raw/state_gdp_1997_2015.csv',
                       skip = 4, n_max = 53)
 
 # UNEMPLOYMENT
@@ -70,8 +70,8 @@ gdp_naics <- gdp_naics %>%
 gdp <- rbind(gdp_sic, gdp_naics)
 
 # OUTPUT
-write.csv(unempl, './data/economic/clean/unemployment.csv', 
+write.csv(unempl, '../data/economic/clean/unemployment.csv', 
           row.names = FALSE)
-write.csv(personal_income, './data/economic/clean/personal_income.csv',
+write.csv(personal_income, '../data/economic/clean/personal_income.csv',
           row.names = FALSE)
-write.csv(gdp, './data/economic/clean/gdp.csv', row.names = FALSE)
+write.csv(gdp, '../data/economic/clean/gdp.csv', row.names = FALSE)

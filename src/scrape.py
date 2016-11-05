@@ -2,7 +2,6 @@
 # http://psephos.adam-carr.net/countries/u/usa/pres.shtml
 from bs4 import BeautifulSoup
 import urllib.request
-import urllib.parse
 import re
 
 root_url = "http://psephos.adam-carr.net/countries/u/usa/pres.shtml"
@@ -23,5 +22,5 @@ for link in links:
     filename = link.split('/')[-1]
     text = urllib.request.urlopen(url).read()
     
-    with open('data/electoral-returns/' + filename, 'wb') as file:
+    with open('../data/electoral-returns/' + filename, 'wb') as file:
         file.write(text)
