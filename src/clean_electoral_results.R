@@ -133,50 +133,6 @@ for (yr in seq(1972, 2012, 4)) {
 electoral_returns <- bind_rows(clean)
 electoral_returns <- dcast(electoral_returns, year + state + party ~ variable)
 
-######################################
-# CANDIDATE BIOGRAPHICAL INFORMATION #
-######################################
-# Extract the names, parties, and home states of each presidential candidate.
-files <- paste0('./data/electoral-returns/raw/', seq(1972, 2012, 4), '.txt')
-raw <- lapply(files, scan, what = 'character', sep = '\n')
-
-parse_raw_candidates <- function(raw_year) {
-  # Prior to 2000, candidate names begin 2 lines below "POPULAR VOTE AND  
-  # ELECTORAL COLLEGE VOTE BY STATE" and continue for three lines.
-  start <- grep("POPULAR VOTE AND ELECTORAL COLLEGE", raw_year) + 2
-  raw_candidates <- raw_year[seq(start, start + 2)]
-  
-  raw_candidates <- raw_candidates %>%
-    str_replace('^\\s+', '') %>%
-    str_split('\\s{2,}')
-  
-  # The first entry contains first names, the second surnames, the third
-  # an entry formatted '(PARTY, STATE ABBREVIATION)'.
-  party <- raw_candidates[[3]] %>%
-    str_match('^\\((\\w+),') %>%
-    `[`( , 2)
-  state <- raw_candidates[[3]] %>%
-    str_match(', (\\w{2})') %>%
-    `[`( , 2)
-  
-  data.frame(
-    first_name = raw_candidates[[1]],
-    last_name = raw_candidates[[2]],
-    party = party,
-    state = state
-  )
-}
-
-# Works for 2000 onward, except for 2004.
-parse_candidate_summary <- function(raw_year) {
-  # Begins 4 lines after the header SUMMARY OF...
-  start <- grep('SUMMARY OF POPULAR AND ELECTORAL COLLEGE VOTE', raw_year) + 4
-  # Ends one line before the first dashed line after the start point.
-  end <- grep('^-+', raw_year[start:length(raw_year)])[1] + start - 2
-  
-  raw_year[start:end]
-}
-
 ##########
 # OUTPUT #
 ##########
