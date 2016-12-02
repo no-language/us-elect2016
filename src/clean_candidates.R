@@ -90,5 +90,7 @@ candidates <- years %>%
   lapply(parse_candidates) %>%
   bind_rows()
 
+candidates$party[is.na(candidates$party)] <- "Independent"
+
 write.csv(candidates, './data/electoral-returns/clean/candidates.csv',
           row.names = FALSE)
