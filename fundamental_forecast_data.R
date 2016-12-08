@@ -10,6 +10,9 @@ state_returns$run_state <- state_returns$ecv > 0
 
 # Candidate information
 candidates <- read_csv('./data/electoral-returns/clean/candidates.csv')
+party_abbv <- read_csv('./data/party_names.csv')
+
+candidates <- left_join(candidates, party_abbv, by = 'party')
 
 # Presidential approval ratings for Q2 in election years from 1972 onward
 approval <- read_csv('./data/approval/clean_approval.csv') %>%
